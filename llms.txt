@@ -31,10 +31,5 @@ The code of this project is licensed under the [European Union Public
 Licence
 (EUPL)](https://interoperable-europe.ec.europa.eu/collection/eupl/eupl-text-eupl-12).
 
-# Package index
-
-## All functions
-
-- [`reload_all()`](https://rjdverse.github.io/rjd3xjars/reference/reload_all.md)
-  : Reload all factories
+# 
 
